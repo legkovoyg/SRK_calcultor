@@ -1,0 +1,8 @@
+cffi==1.17.0.dev0
+greenlet==0.4.13
+hpy==0.9.0
+PySide6==6.5.2
+PySide6-Addons==6.5.2
+PySide6-Essentials==6.5.2
+readline==6.2.4.1
+shiboken6==6.5.2
